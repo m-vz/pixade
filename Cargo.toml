@@ -1,9 +1,9 @@
 [package]
-name = "pixel_warrior"
 version = "0.1.0"
+name = "pixade"
 authors = ["milan <milan@milan.wtf>"]
 edition = "2021"
-description = "A game about building weapons with pixels"
+description = "A modern LED arcade."
 
 [profile.dev]
 opt-level = 1
