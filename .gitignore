@@ -4,8 +4,5 @@ target/
 **/*.rs.bk
 *.pdb
 
-### IntelliJ project files
-.idea
-*.iml
-out
-gen
+### custom
+settings.toml
